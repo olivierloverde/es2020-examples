@@ -1,4 +1,3 @@
-
 const resolvingPromise1000ms = new Promise((resolve, reject) => setTimeout(resolve, 1000));
 const rejectingPromise2000ms = new Promise((resolve, reject) => setTimeout(reject, 2000));
 
