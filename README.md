@@ -1,3 +1,6 @@
+This is the source code repository for usage examples of ES2020 features. For explanation, you can refer to this article on my blog: https://olivier.codes/2020/04/12/ES2020-Summary-of-new-features-with-examples/
+
+
 # ES2020 Examples
 A set of examples of the new ES2020 javascript features :
 
