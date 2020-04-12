@@ -1,0 +1,17 @@
+{
+  "name": "es2020-examples",
+  "version": "1.0.0",
+  "description": "A set of examples of the new ES2020 javascript features.",
+  "main": "index.js",
+  "author": "Olivier Loverde <me@olivier.codes>",
+  "license": "MIT",
+  "scripts": {
+    "nullish": "babel-node nullishCoalescingOperator.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5"
+  }
+}
