@@ -6,5 +6,5 @@ class MyClass {
 
 const myClass = new MyClass()
 myClass.helloWorld() // works
-console.info(myClass.#helloWorld) // SyntaxError: Private field '#helloWorld' must be declared in an enclosing class
+console.info(myClass.#privateVariable) // SyntaxError: Private field '#privateVariable' must be declared in an enclosing class
 
