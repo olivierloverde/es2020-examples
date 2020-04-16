@@ -5,7 +5,7 @@ This is the source code repository for usage examples of ES2020 features. For ex
 A set of examples of the new ES2020 javascript features :
 
 - [Dynamic Import: await import(path)](./examples/dynamicImport.js)
-- [new BigInt()](./examples/bigInt.js)
+- [BigInt()](./examples/bigInt.js)
 - [Nullish Coalescing Operator (??)](./examples/nullishCoalescingOperator.js)
 - [Optional Chaining Operator (?.)](./examples/optionalChainingOperator.js)
 - [Private Variable in Class](./examples/privateClassVariables.js)
